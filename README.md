@@ -21,6 +21,7 @@ github is much confusing, sorry if i did wrong things
 - Python (comfortable, but still learning)
   - designing basic machine learning models
   - very basic natural language processing
+  - can build broken cnn's that don't work
 - Java (learning)
   - a text-based adventure game
 
