@@ -7,7 +7,7 @@
 - 🚀 I like to dream big, come dream with me!!
 
 ## about me
-i'm 16 years old and a high school student! i started learning how to code about march of 2020, currently mostly self-taught (though i have taken a short machine learning course), but i am very slow learner \>\_\>
+i'm 16 years old and a high school student! i started learning how to code, seriously anyway, about march of 2021. currently mostly self-taught (though i have taken a short machine learning course), but i am very slow learner \>\_\>
 
 github is much confusing, sorry if i did wrong things
 
