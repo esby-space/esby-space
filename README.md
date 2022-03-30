@@ -12,9 +12,9 @@ i'm 16 years old and a high school student! i started learning how to code, seri
 github is much confusing, sorry if i did wrong things
 
 ```
-/\__/\
-(=o.o=)
-|/--\|
+/\__/\      (\_/)
+(=o.o=)     (•_• )
+|/--\|       < < \
 (")-(")
 ```
 
