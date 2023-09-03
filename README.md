@@ -7,7 +7,7 @@
 - 🚀 I like to dream big, come dream with me!!
 
 ## about me
-i'm 17 years old and a high school student! i started learning how to code, seriously anyway, about march of 2021.
+currently a college student studying engineering! i started learning how to code, seriously anyway, about march of 2021.
 
 github is much confusing, sorry if i did wrong things
 
