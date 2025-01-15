@@ -1,15 +1,7 @@
-# hello! thank you for stopping by ^_^
-
-## introduction
-- 👋 Hi, I’m @esby-space!
-- 👀 I’m interested in space exploration, computer science, physics, math, languages, and learning in general!
-- 🌱 I’m currently learning too many things. There's not enough time...
-- 🚀 I like to dream big, come dream with me!!
+# hello! thank you for stopping by!
 
 ## about me
-currently a college student studying engineering! i started learning how to code, seriously anyway, about march of 2021.
-
-github is much confusing, sorry if i did wrong things
+i'm currently a college student at U.C. Berkeley studying engineering and physics! i started learning how to code, seriously anyway, in 2021.
 
 ```
 /\__/\      (\_/)
